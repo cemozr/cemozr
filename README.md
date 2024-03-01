@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm Cem. I'm a computer engineer, who currently focused on frontend development. I tried game development, information security, database design and management, web development and other staff during my university years. Then I picked frontend as my main tech stack. Because It is so nice to see what you done immediately while you coding.
 <!--
 **cemozr/cemozr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
