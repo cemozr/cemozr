@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 I'm Cem. I'm a computer engineer, who currently focused on frontend development. I tried game development, information security, database design and management, web development and other staff during my university years. Then I picked frontend as my main tech stack. Because It is so nice to see what you have done immediately while you coding and It is also nice to impress people with inspiring user interfaces.
 
 ### My skills 👇
@@ -17,9 +17,10 @@ I'm Cem. I'm a computer engineer, who currently focused on frontend development.
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" alt="MSSQL" title="MSSQL"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" alt="Unity" title="Unity"/></code>
 </div>
-<br></br>
-Feel free to contact me in any case 🙂 
 
-[<img width="100" height="100" src="https://img.icons8.com/bubbles/100/gmail-new.png" alt="gmail-new"/>](mailto:cemicozer@gmail.com?subject=[GitHub]) [<img width="100" height="100" src="https://img.icons8.com/bubbles/100/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/cem-%C3%B6zer-645361230/)
+
+### Feel free to contact me in any case 🙂 
+
+[<img width="75" height="75" src="https://img.icons8.com/bubbles/100/gmail-new.png" alt="gmail-new"/>](mailto:cemicozer@gmail.com?subject=[GitHub]) [<img width="75" height="75" src="https://img.icons8.com/bubbles/100/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/cem-%C3%B6zer-645361230/)
 
 
