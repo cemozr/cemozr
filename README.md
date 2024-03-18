@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm Cem. I'm a computer engineer, who currently focused on frontend development. I tried game development, information security, database design and management, web development and other staff during my university years. Then I picked frontend as my main tech stack. Because It is so nice to see what you have done immediately while you coding and It is also nice to impress people with inspiring user interfaces.
+I'm Cem. I'm a computer engineer, who currently focused on frontend development. I tried game development, information security, database design and management, web development and other stuff during my university years. Then I picked frontend as my main tech stack. Because It is so nice to see what you have done immediately while you coding and It is also nice to impress people with inspiring user interfaces.
 
 ### My skills 👇
 
