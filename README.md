@@ -21,6 +21,6 @@ I'm Cem. I'm a computer engineer, who currently focused on frontend development.
 
 ### Feel free to contact me in any case 🙂 
 
-[<img width="75" height="75" src="https://img.icons8.com/bubbles/100/gmail-new.png" alt="gmail-new"/>](mailto:cemicozer@gmail.com?subject=[GitHub]) [<img width="75" height="75" src="https://img.icons8.com/bubbles/100/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/cem-%C3%B6zer-645361230/)
+[<img width="75" height="75" src="https://img.icons8.com/bubbles/100/gmail-new.png" alt="gmail-new"/>](mailto:cemozer_@outlook.com?subject=[GitHub]) [<img width="75" height="75" src="https://img.icons8.com/bubbles/100/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/cem-%C3%B6zer-645361230/)
 
 
