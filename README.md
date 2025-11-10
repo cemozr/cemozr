@@ -1,7 +1,7 @@
 <h1 align="left">Greetings, Traveler 🧙‍♂️</h1>
 
 ###
-
+<br clear="both">
 <img align="right" height="170" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3hrMWY2YjljMmFiaTd6NDlxdnJod2U5bWJ5eDBqMWx0c29wYzRhMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jiVcPrCq9r8pVqI32z/giphy.gif"  />
 
 ###
