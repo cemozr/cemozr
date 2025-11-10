@@ -1,13 +1,8 @@
-<table width="100%" cellspacing="0" cellpadding="0">
-  <tr>
-    <td style="vertical-align: middle;">
-      <h1 align="left">Greetings, Traveler 🧙‍♂️</h1>
-    </td>
-    <td style="vertical-align: middle; text-align: right;">
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3hrMWY2YjljMmFiaTd6NDlxdnJod2U5bWJ5eDBqMWx0c29wYzRhMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jiVcPrCq9r8pVqI32z/giphy.gif" height="150" />
-    </td>
-  </tr>
-</table>
+<h1 align="left">
+  <span style="font-size: 2em; font-weight: bold; ">Greetings, Traveler 🧙‍♂️</span>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3hrMWY2YjljMmFiaTd6NDlxdnJod2U5bWJ5eDBqMWx0c29wYzRhMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jiVcPrCq9r8pVqI32z/giphy.gif" height="200" align="right" />
+</h1>
+
 
 
 <p align="left">I’m **Cem**, a Frontend Developer forging interfaces in the realm of the web.  <br>My weapons of choice: **React**, **TypeScript**, and a dash of **magic pixels**. ✨  <br><br>When I’m not coding, you’ll find me exploring MMO worlds or studying the lore behind great sagas.  <br>Building web experiences is just another kind of world-building. 🌍</p>
