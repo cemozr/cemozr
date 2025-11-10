@@ -5,7 +5,7 @@
 
 
 
-<p align="left">I’m **Cem**, a Frontend Developer forging interfaces in the realm of the web.  <br>My weapons of choice: **React**, **TypeScript**, and a dash of **magic pixels**. ✨  <br><br>When I’m not coding, you’ll find me exploring MMO worlds or studying the lore behind great sagas.  <br>Building web experiences is just another kind of world-building. 🌍</p>
+<p align="left">I’m <b>Cem</b>, a Frontend Developer forging interfaces in the realm of the web.  <br>My weapons of choice: <b>React</b>, <b>TypeScript</b>, and a dash of <b>magic pixels</b>. ✨  <br><br>When I’m not coding, you’ll find me exploring MMO worlds or studying the lore behind great sagas.  <br>Building web experiences is just another kind of world-building. 🌍</p>
 
 ###
 
