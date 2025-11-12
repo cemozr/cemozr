@@ -1,15 +1,15 @@
-<h1 align="left">
-  <span style="font-size: 2em; font-weight: bold; ">Greetings, Traveler 🧙‍♂️</span>
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3hrMWY2YjljMmFiaTd6NDlxdnJod2U5bWJ5eDBqMWx0c29wYzRhMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jiVcPrCq9r8pVqI32z/giphy.gif" height="200" align="right" />
+<h1 align="left" >
+  <span style="font-size: 2em; font-weight: bold; ">👋 Hey there, I'm Cem</span>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3JxdWV3ZGUwOXN1emhuZnVpcWNuendjOGZrYmhzbTFmczI5eWhjdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vK6vt1eR2D6QMzzQVP/giphy.gif" height="200" align="right" />
 </h1>
 
 
 
-<p align="left">I’m <b>Cem</b>, a Frontend Developer forging interfaces in the realm of the web.  <br>My weapons of choice: <b>React</b>, <b>TypeScript</b>, and a dash of <b>magic pixels</b>. ✨  <br><br>When I’m not coding, you’ll find me exploring MMO worlds or studying the lore behind great sagas.  <br>Building web experiences is just another kind of world-building. 🌍</p>
+<p align="left">💻 Frontend Developer • 💡 Digital Experience Crafter • 💫 Turning logic into visual harmony <br><br> Welcome to my digital sandbox — fueled by bugs, caffeine, and questionable design choices. <br><br> I'm a Frontend Developer who makes pixels behave, crafting interfaces that sometimes even work on the first try and fixing bugs I proudly introduced yesterday.🌍</p>
 
 ###
 
-<h2 align="left">My Spellbook 🪄</h2>
+<h2 align="left">⚙️ My Skills</h2>
 
 ###
 
@@ -55,7 +55,7 @@
 
 ###
 
-<h2 align="left">Communication Scrolls 📜</h2>
+<h2 align="left">🗣️ How to Reach Me</h2>
 
 ###
 
