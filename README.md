@@ -5,7 +5,7 @@
 
 
 
-<p align="left">💻 Frontend Developer • 💡 Digital Experience Crafter • 💫 Turning logic into visual harmony <br><br> Welcome to my digital sandbox — fueled by bugs, caffeine, and questionable design choices. <br><br> I'm a Frontend Developer who makes pixels behave, crafting interfaces that sometimes even work on the first try and fixing bugs I proudly introduced yesterday.🌍</p>
+<p align="left">💻 Frontend Developer • 💡 Digital Experience Crafter • 💫 Turning logic into visual harmony <br><br> Welcome to my digital sandbox — fueled by bugs, caffeine, and questionable design choices. <br><br> I'm a Frontend Developer who makes pixels behave, crafting interfaces that sometimes even work on the first try and fixing bugs I proudly introduced yesterday. 🫠</p>
 
 ###
 
