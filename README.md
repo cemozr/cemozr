@@ -1,6 +1,6 @@
 <h1 align="left" >
   <span style="font-size: 2em; font-weight: bold; ">👋 Hey there, I'm Cem</span>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3JxdWV3ZGUwOXN1emhuZnVpcWNuendjOGZrYmhzbTFmczI5eWhjdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vK6vt1eR2D6QMzzQVP/giphy.gif" height="200" align="right" />
+  
 </h1>
 
 
